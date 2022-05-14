@@ -4,6 +4,8 @@
       <img src="https://lanyard.cnrad.dev/api/878270961395335220?bg=1f1f1f&borderRadius=5px" alt="discord user">
    </a>
 </p>
+
+### some github user stats
    
 ### i'm currently listening to
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true">
