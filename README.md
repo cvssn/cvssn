@@ -9,8 +9,11 @@
 <p>
    <a href="https://wakatime.com/@mitigates" target="_blank">
       <img align="center" alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mitigates&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+   </a>
+</p>
    
 ### i'm currently listening to
+      
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
 </a>
