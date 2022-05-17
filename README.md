@@ -1,3 +1,27 @@
+### util social media links
+[github](https://github.com/mitigates) |
+[wakatime](https://wakatime.com/@mitigates) |
+[twitter](https://twitter.com/profundacore) |
+[instagram](https://www.instagram.com/profundacore/) |
+[steam](https://steamcommunity.com/id/paradesepagarderacistananet/) |
+[spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) |
+[tetrio](https://ch.tetr.io/u/ekinotzy)
+
+### some discord ids
+
+| currently acc name | respective id      | respective tag |
+| ------------------ | ------------------ | -------------- |
+| furstamp | 969639028108455977 | #1536 |
+| perhaps | 878270961395335220 | #0341 |
+| equinox | 774377616374759446 | #8012 |
+| recenta | 958529093320724520 | #1794 |
+| sevanova | 963721989976096778 | #7875 |
+| bellakrausen | 671809749955641364 | #5859 |
+| rpc | 954609211189383168 | #6388 |
+| sacramento | 929514239234826290 | #8085 |
+| maniphestos | 770611149682114570 | #5166 |
+
+
 ### my discord profile
 <p>
    <a href="https://discord.com/users/878270961395335220" target="_blank">
