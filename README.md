@@ -11,7 +11,7 @@
         <img alt="patreon"
              src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square">
     </a>
-    <a href"https://github.com/furstamp?tab=followers">
+    <a href="https://github.com/furstamp?tab=followers">
         <img alt="github followers" 
              src="https://img.shields.io/github/followers/furstamp?style=social" />
     </a>
