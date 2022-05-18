@@ -1,6 +1,48 @@
-<div align="center">
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=53&descAlign=49) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=53&descAlign=49)
+<div align="center">
+   <h1>furstamp</h1>
+</div>
+
+<div style="width: 10px;"></div>
+
+<div align="center">
+    <a href="https://www.patreon.com/furstamp">
+        <img alt="patreon"
+             src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square">
+    </a> 
+    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
+        <img alt="Paypal donate"
+             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
+    </a>
+    <a href"https://github.com/OkamiMks?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/OkamiMks?style=social" />
+    </a>
+    <a href="https://twitter.com/OkamiMwaree">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social">
+    </a>
+    <a href="https://visitor-badge.glitch.me">
+        <img alt="Visitors"
+             src="https://visitor-badge.glitch.me/badge?page_id=OkamiMks.visitor-badge" />
+    </a>
+</div>
+![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+   
+<a href="https://visitor-badge.glitch.me">
+   <img alt="visitantes" src="https://visitor-badge.glitch.me/badge?page_id=furstamp.visitor-badge" />
+</a>
+
+<a href="https://github.com/furstamp">
+   <img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+   
+zoxide is a **smarter cd command**, inspired by z and autojump.
+
+It remembers which directories you use most frequently, so you can "jump" to
+them in just a few keystrokes.<br />
+zoxide works on all major shells.
 
 ### util social media links
 [github](https://github.com/mitigates) |
@@ -46,8 +88,4 @@
       
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
-</a>
-
-<a href="https://visitor-badge.glitch.me">
-   <img alt="visitantes" src="https://visitor-badge.glitch.me/badge?page_id=furstamp.visitor-badge" />
 </a>
