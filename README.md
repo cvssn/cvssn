@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=51&descAlign=62)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=53&descAlign=49)
 
 ### util social media links
 [github](https://github.com/mitigates) |
