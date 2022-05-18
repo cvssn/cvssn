@@ -1,3 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=51&descAlign=62)
+
+<a href="https://visitor-badge.glitch.me">
+   <img alt="visitantes" src="https://visitor-badge.glitch.me/badge?page_id=furstamp.visitor-badge" />
+</a>
+
 ### util social media links
 [github](https://github.com/mitigates) |
 [wakatime](https://wakatime.com/@mitigates) |
@@ -6,7 +12,8 @@
 [steam](https://steamcommunity.com/id/paradesepagarderacistananet/) |
 [spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) |
 [tetrio](https://ch.tetr.io/u/ekinotzy) |
-[last.fm](https://www.last.fm/user/herdeaths)
+[last.fm](https://www.last.fm/user/herdeaths) |
+[kofi](https://ko-fi.com/furstamp)
 
 ### some discord ids
 
