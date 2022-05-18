@@ -30,35 +30,38 @@
 i'm a **brazilian student**, currently studying node.js, typescript, rust and python.
    
 <p align="center">
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="csharp" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/fsharp.svg" alt="fsharp" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/assembly.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/opengl.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="vscode" width="40" height="40"/>
-   </a>
    <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
    </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg" alt="vscode" width="40" height="40"/>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="38" height="38"/>
    </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/clojure.svg" alt="vscode" width="40" height="40"/>
+   <a href="https://www.python.org/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="40" height="40"/>
+   </a>
+   <a href="https://www.python.org/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+   </a>
+   <a href="https://git-scm.com/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="Git" width="40" height="40"/>
+   </a>
+   <a href="https://www.typescriptlang.org/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" alt="TypeScript" width="38" height="38"/>
+   </a>
+   <a href="https://reactjs.org/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="React" width="40" height="40"/>
+   </a>
+   <a href="https://www.sublimetext.com/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/sublime-text.svg" alt="Sublime Text" width="40" height="40"/>
+   </a>
+   <a href="https://www.npmjs.com/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="npm" width="38" height="38"/>
+   </a>
+   <a href="https://www.mongodb.org/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+   </a>
+   <a href="https://webpack.js.org/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" alt="webpack" width="40" height="40"/>
    </a>
 </p>
 
