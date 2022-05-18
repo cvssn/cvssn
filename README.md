@@ -28,6 +28,39 @@
 <div align="center">
    
 i'm a **brazilian student**, currently studying node.js, typescript, rust and python.
+   
+<p align="center">
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="csharp" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/fsharp.svg" alt="fsharp" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/assembly.svg" alt="nodejs" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/opengl.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/clojure.svg" alt="vscode" width="40" height="40"/>
+   </a>
+</p>
 
 <!-- It remembers which directories you use most frequently, so you can "jump" to
 them in just a few keystrokes.<br />
@@ -36,17 +69,18 @@ zoxide works on all major shells. -->
 </div>
 
 <div align="center">
-
-### some util social media links
-[github](https://github.com/mitigates) |
-[wakatime](https://wakatime.com/@mitigates) |
-[twitter](https://twitter.com/profundacore) |
-[instagram](https://www.instagram.com/profundacore/) |
-[steam](https://steamcommunity.com/id/paradesepagarderacistananet/) |
-[spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) |
-[tetrio](https://ch.tetr.io/u/ekinotzy) |
-[last.fm](https://www.last.fm/user/herdeaths) |
-[kofi](https://ko-fi.com/furstamp) |
+   
+<!-- ##### some util social media links -->
+   
+[github](https://github.com/mitigates) ~
+[wakatime](https://wakatime.com/@mitigates) ~
+[twitter](https://twitter.com/profundacore) ~
+[instagram](https://www.instagram.com/profundacore/) ~
+[steam](https://steamcommunity.com/id/paradesepagarderacistananet/) ~
+[spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) ~
+[tetrio](https://ch.tetr.io/u/ekinotzy) ~
+[last.fm](https://www.last.fm/user/herdeaths) ~
+[kofi](https://ko-fi.com/furstamp) ~
 [discord](https://github.com/furstamp/furstamp/blob/main/discord/status.md)
    
 </div>
@@ -81,10 +115,20 @@ zoxide works on all major shells. -->
    </a>
 </p> -->
    
-### i'm currently listening to
-      
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
-</a>
-
-</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=furstamp&theme=react-dark" alt="drawing" width="800"/>
+   
+<!-- <p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true">
+    <img
+      align="center"
+      height="110em"
+      src="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"
+    />
+  </a>
+  <a href="https://discord.com/users/969639028108455977">
+    <img
+      align="center"
+      src="https://lanyard.cnrad.dev/api/969639028108455977?bg=1f1f1f&borderRadius=5px"
+    />
+  </a>
+</p> -->
