@@ -47,7 +47,7 @@ zoxide works on all major shells. -->
 [tetrio](https://ch.tetr.io/u/ekinotzy) |
 [last.fm](https://www.last.fm/user/herdeaths) |
 [kofi](https://ko-fi.com/furstamp) |
-[discord]()
+[discord](https://github.com/furstamp/furstamp/blob/main/discord/status.md)
    
 </div>
 
@@ -67,19 +67,19 @@ zoxide works on all major shells. -->
 
 <div align="center">
 
-### my discord profile
+<!-- ### my discord profile
 <p>
    <a href="https://discord.com/users/969639028108455977" target="_blank">
       <img src="https://lanyard.cnrad.dev/api/969639028108455977?bg=1f1f1f&borderRadius=5px" alt="discord user">
    </a>
-</p>
+</p> -->
 
-### some github user stats
+<!-- ### some github user stats
 <p>
    <a href="https://wakatime.com/@mitigates" target="_blank">
       <img align="center" alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mitigates&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
    </a>
-</p>
+</p> -->
    
 ### i'm currently listening to
       
