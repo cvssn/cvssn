@@ -5,7 +5,8 @@
 [instagram](https://www.instagram.com/profundacore/) |
 [steam](https://steamcommunity.com/id/paradesepagarderacistananet/) |
 [spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) |
-[tetrio](https://ch.tetr.io/u/ekinotzy)
+[tetrio](https://ch.tetr.io/u/ekinotzy) |
+[last.fm](https://www.last.fm/user/herdeaths)
 
 ### some discord ids
 
