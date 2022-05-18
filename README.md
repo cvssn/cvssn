@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=51&descAlign=62)
 
-<a href="https://visitor-badge.glitch.me">
-   <img alt="visitantes" src="https://visitor-badge.glitch.me/badge?page_id=furstamp.visitor-badge" />
-</a>
-
 ### util social media links
 [github](https://github.com/mitigates) |
 [wakatime](https://wakatime.com/@mitigates) |
@@ -48,4 +44,8 @@
       
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+</a>
+
+<a href="https://visitor-badge.glitch.me">
+   <img alt="visitantes" src="https://visitor-badge.glitch.me/badge?page_id=furstamp.visitor-badge" />
 </a>
