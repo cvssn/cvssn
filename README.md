@@ -76,7 +76,7 @@ zoxide works on all major shells. -->
 <!-- ##### some util social media links -->
    
 [github](https://github.com/mitigates) ~
-[wakatime](https://wakatime.com/@mitigates) ~
+[wakatime](https://wakatime.com/@furs) ~
 [twitter](https://twitter.com/profundacore) ~
 [instagram](https://www.instagram.com/profundacore/) ~
 [steam](https://steamcommunity.com/id/paradesepagarderacistananet/) ~
