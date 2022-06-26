@@ -17,7 +17,7 @@
     </a>
     <a href="https://twitter.com/furstamp">
         <img alt="twitter followers" 
-             src="https://img.shields.io/twitter/follow/furstamp?style=social">
+             src="https://img.shields.io/twitter/follow/assincronia?style=social">
     </a>
     <a href="https://visitor-badge.glitch.me">
         <img alt="visitors"
