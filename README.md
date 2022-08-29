@@ -135,3 +135,8 @@ zoxide works on all major shells. -->
     />
   </a>
 </p> -->
+
+<div align="center">
+   <h1>and i'm currently listening to</h1>
+</div>
+   
