@@ -75,11 +75,11 @@ zoxide works on all major shells. -->
    
 <!-- ##### some util social media links -->
    
-[github](https://github.com/mitigates) ~
+[github](https://github.com/furstamp) ~
 [wakatime](https://wakatime.com/@furs) ~
-[twitter](https://twitter.com/profundacore) ~
-[instagram](https://www.instagram.com/profundacore/) ~
-[steam](https://steamcommunity.com/id/paradesepagarderacistananet/) ~
+[twitter](https://twitter.com/assincronia) ~
+[instagram](https://www.instagram.com/hersgaze/) ~
+[steam](https://steamcommunity.com/id/estuprarei/) ~
 [spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) ~
 [tetrio](https://ch.tetr.io/u/ekinotzy) ~
 [last.fm](https://www.last.fm/user/herdeaths) ~
