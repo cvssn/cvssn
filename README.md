@@ -138,5 +138,6 @@ zoxide works on all major shells. -->
 
 <div align="center">
    <h1>and i'm currently listening to</h1>
-</div>
    
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&cover_image=true&theme=novatorem&bar_color=2eff46&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true)
+</div>
