@@ -1,19 +1,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=53&descAlign=49) -->
 
 <div align="center">
-   <h1>hey, i'm furstamp...</h1>
+   <h1>hey, i'm decova.</h1>
 </div>
 
 <div style="width: 10px;"></div>
 
 <div align="center">
-    <a href="https://www.patreon.com/furstamp">
-        <img alt="patreon"
-             src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square">
-    </a>
     <a href="https://github.com/furstamp?tab=followers">
         <img alt="github followers" 
-             src="https://img.shields.io/github/followers/furstamp?style=social" />
+             src="https://img.shields.io/github/followers/decov?style=social" />
     </a>
     <a href="https://twitter.com/furstamp">
         <img alt="twitter followers" 
@@ -75,7 +71,7 @@ zoxide works on all major shells. -->
    
 <!-- ##### some util social media links -->
    
-[github](https://github.com/furstamp) ~
+[github](https://github.com/decov) ~
 [wakatime](https://wakatime.com/@furs) ~
 [twitter](https://twitter.com/assincronia) ~
 [instagram](https://www.instagram.com/hersgaze/) ~
@@ -118,7 +114,7 @@ zoxide works on all major shells. -->
    </a>
 </p> -->
    
-<img src="https://activity-graph.herokuapp.com/graph?username=furstamp&theme=react-dark" alt="drawing" width="800"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=decov&theme=react-dark" alt="drawing" width="800"/>
    
 <!-- <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true">
