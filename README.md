@@ -7,11 +7,11 @@
 <div style="width: 10px;"></div>
 
 <div align="center">
-    <a href="https://github.com/furstamp?tab=followers">
+    <a href="https://github.com/decov?tab=followers">
         <img alt="github followers" 
              src="https://img.shields.io/github/followers/decov?style=social" />
     </a>
-    <a href="https://twitter.com/furstamp">
+    <a href="https://twitter.com/assincronia">
         <img alt="twitter followers" 
              src="https://img.shields.io/twitter/follow/assincronia?style=social">
     </a>
