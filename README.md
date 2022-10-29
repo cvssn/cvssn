@@ -75,12 +75,12 @@ zoxide works on all major shells. -->
 [wakatime](https://wakatime.com/@furs) ~
 [twitter](https://twitter.com/assincronia) ~
 [instagram](https://www.instagram.com/hersgaze/) ~
-[steam](https://steamcommunity.com/id/estuprarei/) ~
+[steam](https://steamcommunity.com/id/mitigates/) ~
 [spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) ~
 [tetrio](https://ch.tetr.io/u/ekinotzy) ~
 [last.fm](https://www.last.fm/user/herdeaths) ~
 [kofi](https://ko-fi.com/furstamp) ~
-[discord](https://github.com/furstamp/furstamp/blob/main/discord/status.md)
+[discord](https://github.com/decov/decov/blob/main/discord/status.md)
    
 </div>
 
