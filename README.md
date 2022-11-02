@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=53&descAlign=49) -->
 
 <div align="center">
-   <h1>hey, i'm decova.</h1>
+   <h1>hey, i'm decov.</h1>
 </div>
 
 <div style="width: 10px;"></div>
