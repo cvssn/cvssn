@@ -73,9 +73,9 @@ zoxide works on all major shells. -->
    
 [github](https://github.com/decov) ~
 [wakatime](https://wakatime.com/@furs) ~
-[twitter](https://twitter.com/assincronia) ~
+[twitter](https://twitter.com/lacrimosous) ~
 [instagram](https://www.instagram.com/hersgaze/) ~
-[steam](https://steamcommunity.com/id/mitigates/) ~
+[steam](https://steamcommunity.com/id/decov/) ~
 [spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) ~
 [tetrio](https://ch.tetr.io/u/ekinotzy) ~
 [last.fm](https://www.last.fm/user/herdeaths) ~
@@ -114,7 +114,7 @@ zoxide works on all major shells. -->
    </a>
 </p> -->
    
-<img src="https://activity-graph.herokuapp.com/graph?username=decov&theme=react-dark" alt="drawing" width="800"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=decov&theme=react-dark" alt="drawing" width="800"/> -->
    
 <!-- <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=8x0ksnv8ph7clfmsfii97mvhr&redirect=true">
