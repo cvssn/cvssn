@@ -11,7 +11,7 @@
         <img alt="github followers" 
              src="https://img.shields.io/github/followers/decov?style=social" />
     </a>
-    <a href="https://twitter.com/assincronia">
+    <a href="https://twitter.com/lacrimosous">
         <img alt="twitter followers" 
              src="https://img.shields.io/twitter/follow/assincronia?style=social">
     </a>
