@@ -72,7 +72,7 @@ zoxide works on all major shells. -->
 <!-- ##### some util social media links -->
    
 [github](https://github.com/decov) ~
-[wakatime](https://wakatime.com/@furs) ~
+[wakatime](https://wakatime.com/@dec) ~
 [twitter](https://twitter.com/lacrimosous) ~
 [instagram](https://www.instagram.com/hersgaze/) ~
 [steam](https://steamcommunity.com/id/decov/) ~
