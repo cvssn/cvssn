@@ -7,21 +7,6 @@
 <div style="width: 10px;"></div>
 
 <div align="center">
-    <a href="https://github.com/decov?tab=followers">
-        <img alt="github followers" 
-             src="https://img.shields.io/github/followers/decov?style=social" />
-    </a>
-    <a href="https://twitter.com/lacrimosous">
-        <img alt="twitter followers" 
-             src="https://img.shields.io/twitter/follow/assincronia?style=social">
-    </a>
-    <a href="https://visitor-badge.glitch.me">
-        <img alt="visitors"
-             src="https://visitor-badge.glitch.me/badge?page_id=furstamp.visitor-badge" />
-    </a>
-</div>
-
-<div align="center">
    
 i'm a **brazilian student**, currently studying node.js, typescript, rust and python.
    
