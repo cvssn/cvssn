@@ -8,7 +8,7 @@
 
 <div align="center">
    
-i'm a **brazilian student**, currently studying node.js, typescript, rust and python.
+i'm a **front-end** student that's currently studying sass and typescript.
    
 <p align="center">
    <a href="https://code.visualstudio.com/">
