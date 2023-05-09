@@ -65,7 +65,7 @@ zoxide works on all major shells. -->
 [tetrio](https://ch.tetr.io/u/ekinotzy) ~
 [last.fm](https://www.last.fm/user/grivoo) ~
 [kofi](https://ko-fi.com/furstamp) ~
-[discord](https://github.com/decov/decov/blob/main/discord/status.md)
+[discord](https://github.com/grvo/grvo/blob/main/discord/status.md)
    
 </div>
 
