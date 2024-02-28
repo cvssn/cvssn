@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=furstamp%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=js,%20typescript%20n%20%python&descAlignY=53&descAlign=49) -->
 
 <div align="center">
-   <h1>hey, i'm grivo.</h1>
+   <h1>hey, i'm vuwints.</h1>
 </div>
 
 <div style="width: 10px;"></div>
@@ -59,15 +59,13 @@ zoxide works on all major shells. -->
    
 <!-- ##### some util social media links -->
    
-[github](https://github.com/grvo) ~
+[github](https://github.com/vwts) ~
 [wakatime](https://wakatime.com/@dec) ~
-[twitter](https://twitter.com/imgrivo) ~
-[instagram](https://www.instagram.com/imgrivo/) ~
-[steam](https://steamcommunity.com/id/grvo/) ~
+[twitter](https://twitter.com/vuwints) ~
+[instagram](https://www.instagram.com/vuwints/) ~
+[steam](https://steamcommunity.com/id/vwts/) ~
 [spotify](https://open.spotify.com/user/8x0ksnv8ph7clfmsfii97mvhr?si=5fc6c26283ad4596) ~
-[tetrio](https://ch.tetr.io/u/ekinotzy) ~
-[last.fm](https://www.last.fm/user/grivoo) ~
-[kofi](https://ko-fi.com/furstamp) ~
+[last.fm](https://www.last.fm/user/vuwints) ~
 [gitlab](https://gitlab.com/grvo)
    
 </div>
